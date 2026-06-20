@@ -25,5 +25,6 @@ The design brief for sem 1 2026 was to create a four-channel power-meter device 
   + Real Power
   + Apparent Power
   + Reactive Power
++
 
 All measurements were to be taken independently and simultaneously, presented to the user via an LCD screen on the device or via serial to a piece of software on a computer. 
