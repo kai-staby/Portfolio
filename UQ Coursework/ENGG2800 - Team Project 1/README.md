@@ -31,7 +31,12 @@ The design brief for sem 1 2026 was to create a four-channel power-meter device 
 All measurements were to be taken independently and simultaneously, presented to the user via an LCD screen on the device or via serial to a software GUI on a computer. All measurements were to be logged to and graphed over time on the GUI software, with any four measurements (as decided by the user via hardware buttons) able to be viewed on the device LCD. The GUI was created in Python with tkinter, and embedded firmware was developed in C and the ATMEL AVR instruction set. 
 
 ### Contribution
+
 I took exclusive responsibility for about half the project deliverables. Specifically, I soley designed all the measurement circuitry from schematic to layout and assembled the final product. I also worked closely with my colleague responsible for the device firmware in creating a system architecture, and embedded systems integration. Altium schematic and PCB layout artifacts can be seen at [Documents](./Documents), and the source files at [Archive](./Archive) 
 
 ## Outcome
+
+The device scored >95% in the product assessment, achieving perfect scores in all criteria except for a single defect in the power switch. All measurements were recorded well within tolerance, with much care having gone into desining hardware and firmware which would ensure tight measurements and effective compensation. The schematics and PCB layout also achieved perfect marks with minimal criticism (except for too many schematic comments, who knew you could be too descriptive ;) ). Overall I learned a significant amount in the hardware design and PCB layout spaces, with my existing KiCAD experience helping make for a quick tranisiton to the Altium ecosystem. I specifically learnt a lot about different voltage regulation regimes, the importance of impedance in circuit design, and circuit protection techniques, none of which were quite as prevelant in my previous PCB design experience ([ATLAS v3](.../UQSpace/ATLAS%20v3)). Really the key skill I gained was in applying circuit analysis techniques to practical, real-world scenarios and the troubleshooting skills that come with that. 
+
+
 
