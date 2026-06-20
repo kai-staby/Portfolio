@@ -1,1 +1,1 @@
-Altium project .zip archive, including all files relevant to the hardware design of the device. The BOM was created outside of Altium in an Excel spreadsheet.
+Altium project .zip archive, including all files relevant to the hardware design of the device. The BOM was created outside of Altium in an Excel spreadsheet. The project can be opened and filed/libraries interacted with in Altium Designer by opening the .PrjPCB file in the archive
