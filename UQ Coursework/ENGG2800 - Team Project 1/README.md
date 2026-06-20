@@ -6,4 +6,17 @@ ENGG2800 is the first of two major discipline-specific team-based project course
 
 ## The Project
 
-The design brief for sem 1 2026 was to create a four-channel power-meter device which directly measured DC and AC quantities and presented useful measurements to the user. 
+The design brief for sem 1 2026 was to create a four-channel power-meter device which directly measured DC and AC quantities and presented useful measurements to the user. The device was to measure and present the following within a 2.5% tolerance: 
++ DC Quantities
+  + DC Voltage
+  + DC Current
+  + DC Power
++ AC Quantities
+  + AC Voltage
+  + AC Current
+  + Frequency
+  + Phase
+  + Power Factor
+  + Real Power
+  + Apparent Power
+  + Reactive Power
