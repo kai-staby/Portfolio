@@ -10,6 +10,8 @@ ENGG2800 is the first of two major discipline-specific team-based project course
 
 ## The Project
 
+### Description
+
 The design brief for sem 1 2026 was to create a four-channel power-meter device which directly measured DC and AC quantities and presented useful measurements to the user. The core of the device was to be built around an ATmega328P microcontroller, with all other hardware decisions made at the group's discretion. The device was to measure and present the following within a 2.5% tolerance: 
 
 + DC Quantities
