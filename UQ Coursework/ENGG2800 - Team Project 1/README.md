@@ -38,5 +38,9 @@ I took exclusive responsibility for about half the project deliverables. Specifi
 
 The device scored >95% in the product assessment, achieving perfect scores in all criteria except for a single defect in the power switch. All measurements were recorded well within tolerance, with much care having gone into desining hardware and firmware which would ensure tight measurements and effective compensation. The schematics and PCB layout also achieved perfect marks with minimal criticism (except for too many schematic comments, who knew you could be too descriptive ;) ). Overall I learned a significant amount in the hardware design and PCB layout spaces, with my existing KiCAD experience helping make for a quick tranisiton to the Altium ecosystem. I specifically learnt a lot about different voltage regulation regimes, the importance of impedance in circuit design, and circuit protection techniques, none of which were quite as prevelant in my previous PCB design experience ([ATLAS v3](.../UQSpace/ATLAS%20v3)). Really the key skill I gained was in applying circuit analysis techniques to practical, real-world scenarios and the troubleshooting abilities that come with that. 
 
+![Final product top view](./Documents/IMG_4631.jpg)
+![Final product side view](./Documents/IMG_4632.jpg)
+![Final PCB Top view](./Documents/IMG_4689.jpg)
+
 
 
