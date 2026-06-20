@@ -31,7 +31,7 @@ The design brief for sem 1 2026 was to create a four-channel power-meter device 
 All measurements were to be taken independently and simultaneously, presented to the user via an LCD screen on the device or via serial to a software GUI on a computer. All measurements were to be logged to and graphed over time on the GUI software, with any four measurements (as decided by the user via hardware buttons) able to be viewed on the device LCD. The GUI was created in Python with tkinter, and embedded firmware was developed in C and the ATMEL AVR instruction set. 
 
 ### Contribution
-I took exclusive responsibility for about half the project deliverables. Specifically, I soley designed all the measurement circuitry from schematic to layout and assembled the final product. I also worked closely with my colleague responsible for the device firmware in creating a system architecture, and embedded systems integration. Altium schematic and PCB layout artifacts can be seen at [Documents](/Documents), and the source files at [Archive](/Archive) 
+I took exclusive responsibility for about half the project deliverables. Specifically, I soley designed all the measurement circuitry from schematic to layout and assembled the final product. I also worked closely with my colleague responsible for the device firmware in creating a system architecture, and embedded systems integration. Altium schematic and PCB layout artifacts can be seen at [Documents](./Documents), and the source files at [Archive](./Archive) 
 
 ## Outcome
 
